@@ -1,0 +1,19 @@
+div 
+{
+    width: 20%;
+    height: 400px;
+    border: 10px solid rgb(128, 213, 72);
+    padding-top:60px;
+    padding-left: 60px;
+    margin: 0px auto;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+}
+
+input[type=submit]
+{
+    background-color:grey;
+    color: white;
+    margin-left: 120px;
+}

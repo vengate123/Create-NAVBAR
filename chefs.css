@@ -1,0 +1,190 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    top: 0;
+}
+
+li 
+{
+    float: left;
+}
+
+li a 
+{
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+}
+
+li a:hover {
+    background-color: red;
+}
+
+.para1 
+{
+	color: red;
+	font-size: 40px;
+	font-style: oblique;
+	margin-left: 30%;
+}
+
+div 
+{
+	width: 90%;
+	height: 670px;
+	margin: 0px auto;
+
+}
+
+#box1
+{
+	width: 32%;
+	float: left;
+}
+
+
+#box1 p 
+{
+	font-size: 25px;
+	color: black;
+}
+#box1 b 
+{
+	margin-left: 15px;
+	font-size: 40px;
+	color: black;
+}
+
+#box2
+{
+	width: 32%;
+	float: left;
+	margin-left: 2%;
+}
+
+
+#box2 p 
+{
+	font-size: 25px;
+    color: black;
+}
+
+#box2 b 
+{
+	margin-left: 65px;
+	font-size: 40px;
+	color: black;
+}
+
+#box3
+{
+	width: 32%;
+	float: right;
+}
+
+
+#box3 p 
+{
+	font-size: 25px;
+	color: black;
+}
+
+#box3 b 
+{
+	margin-left: 90px;
+	font-size: 40px;
+	color: black;
+}
+
+
+footer 
+{
+	background-color: black;
+	color: white;
+	clear: both;
+}
+
+
+.para2
+{
+	clear: both;
+	font-size: 40px;
+	font-style: oblique;
+    margin-left: 40%;
+}
+
+.para3
+{
+    margin-left: 37%;
+    text-indent: 70px;
+}
+
+.para4
+{
+    margin-left: 37%;
+    text-indent: 70px;
+}
+
+.para4 a 
+{
+	color: white;
+	text-decoration: none;
+}
+
+.icons
+{
+	margin-left: 40%;
+}
+
+ a 
+{
+	
+	text-decoration: none;
+}
+
+	  .fa-square-facebook{
+     padding: 5px;
+  	font-size: 30px;
+   	margin-right: 10px;
+  }
+	  .fa-square-twitter{
+  	padding: 5px;
+  	font-size: 30px;
+  	margin-right: 10px;
+  	margin-left: 10px;
+  }
+
+   .fa-linkedin{
+   	 	padding: 5px;
+  	font-size: 30px;
+  	margin-right: 10px;
+  	margin-left: 10px;
+   }
+  
+
+  .fa-instagram{
+        padding: 5px;
+  	font-size: 30px;
+   margin-left: 10px;
+  
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+

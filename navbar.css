@@ -1,0 +1,123 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    top: 0;
+}
+
+li 
+{
+    float: left;
+}
+
+li a 
+{
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+}
+
+li a:hover {
+    background-color: red;
+}
+
+.para1
+{
+  font-size: 35px;  
+}
+
+.one 
+{
+    color: black;
+    text-decoration: none;
+    margin-left: 40%;
+    background-color: rgb(147, 63, 63);
+    font-style: oblique;
+    padding: 5px 10px;
+}
+
+.one:hover 
+{
+    background-color: grey;
+}
+footer 
+{
+    background-color: black;
+    color: white;
+    clear: both;
+    height: 230px;
+}
+
+
+.para2
+{
+    clear: both;
+    font-size: 40px;
+    font-style: oblique;
+    margin-left: 40%;
+}
+
+.para3
+{
+    margin-left: 37%;
+    text-indent: 70px;
+}
+
+.para4
+{
+    margin-left: 37%;
+    text-indent: 70px;
+}
+
+.para4 a 
+{
+    color: white;
+    text-decoration: none;
+}
+
+.icons
+{
+    margin-left: 40%;
+}
+
+footer a 
+{
+    
+    text-decoration: none;
+    color: white;
+}
+
+      .fa-square-facebook{
+     padding: 5px;
+    font-size: 30px;
+    margin-right: 10px;
+  }
+      .fa-square-twitter{
+    padding: 5px;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+   .fa-linkedin{
+        padding: 5px;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+   }
+  
+
+  .fa-instagram{
+        padding: 5px;
+    font-size: 30px;
+   margin-left: 10px;
+  
+  }
+

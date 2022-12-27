@@ -1,0 +1,193 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    top: 0;
+}
+
+li 
+{
+    float: left;
+}
+
+li a 
+{
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+}
+
+li a:hover {
+    background-color: red;
+}
+
+.para1 
+{
+	font-style: oblique;
+	font-size: 40px;
+	margin-left: 35%;
+}
+
+div 
+{
+	background-color: rgb(214, 169, 205);
+	width: 90%;
+	height: 500px;
+	margin: 0px auto;
+	border: 4px solid rgb(116, 49, 49);
+}
+
+.para2 
+{
+	font-size: 20px;
+	text-indent: 30px;
+}
+
+#box1
+{
+	height: 400px;
+	width: 32%;
+	float: left;
+	margin-right: 2%;
+	border: none;
+}
+
+#box1 a 
+{
+	color: black;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+#box1 a:hover{
+	color: grey;
+	text-decoration: underline;
+}
+
+#box2
+{
+	height: 400px;
+	width: 32%;
+	float: left;
+	border: none;
+}
+
+#box2 a 
+{
+	color: black;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+#box2 a:hover{
+	color: grey;
+	text-decoration: underline;
+}
+
+#box3
+{
+	height: 400px;
+	width: 32%;
+	float: right;
+	border: none;
+}
+
+#box3 a 
+{
+	color: black;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+#box3 a:hover{
+	color: grey;
+	text-decoration: underline;
+}
+
+
+
+footer 
+{
+	background-color: black;
+	color: white;
+	clear: both;
+}
+
+
+.para3 
+{
+	clear: both;
+	font-size: 40px;
+	font-style: oblique;
+    margin-left: 40%;
+}
+
+.para4
+{
+    margin-left: 37%;
+    text-indent: 70px;
+}
+
+.para5
+{
+    margin-left: 37%;
+    text-indent: 70px;
+}
+
+.para5 a 
+{
+	color: white;
+	text-decoration: none;
+}
+
+
+.icons
+{
+	margin-left: 40%;
+}
+
+ a 
+{
+	color: white;
+	text-decoration: none;
+}
+
+	  .fa-square-facebook{
+     padding: 5px;
+  	font-size: 30px;
+   	margin-right: 10px;
+  }
+	  .fa-square-twitter{
+  	padding: 5px;
+  	font-size: 30px;
+  	margin-right: 10px;
+  	margin-left: 10px;
+  }
+
+   .fa-linkedin{
+   	 	padding: 5px;
+  	font-size: 30px;
+  	margin-right: 10px;
+  	margin-left: 10px;
+   }
+  
+
+  .fa-instagram{
+        padding: 5px;
+  	font-size: 30px;
+   margin-left: 10px;
+  }
+
+
+
+
+
+
+
+
